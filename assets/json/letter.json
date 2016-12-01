@@ -1,0 +1,12 @@
+{
+    "letter_width": 48,
+    "letter_height": 48,
+    "textStyle": {
+        "font": "48px Exo2 SemiBold",
+        "fill": "#ffffff"
+    },
+    "inputStyle": {
+        "font": "48px Exo2 SemiBold",
+        "fill": "#000000"
+    }
+}
